@@ -5,6 +5,8 @@ For more information, please visit: <br/>
   <li><a href="https://nodejs.org/en/">NodeJS Website</a></li>
   <li><a href="https://pt.wikipedia.org/wiki/Node.js">Wikipedia NodeJS</a></li>
   <li><a href="https://www.tutorialspoint.com/nodejs/">TutorialsPoint - NodeJS Tutorial</a></li>
+  <li><a href="https://www.mongodb.com/">MongoDB Website</a></li>
+  <li><a href="https://pt.wikipedia.org/wiki/MongoDB">Wikipedia MongoDB</a></li>
 </ul>
 </br>
 This tutorial is based on:
